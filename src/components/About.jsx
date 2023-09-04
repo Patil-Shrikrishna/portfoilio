@@ -12,21 +12,27 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis
-          molestias repudiandae repellendus asperiores, temporibus ad beatae! Ad
-          at asperiores sapiente? Dignissimos laudantium quisquam ex nostrum est
-          excepturi vero unde incidunt?
+        <p className="text-md md:text-xl mt-10 md:mt-20">
+          Hello, I'm Shrikrishna Patil, a devoted MERN Full Stack Developer. I
+          began my tech journey with BCA from Bill Gates College of Computer
+          Science and later pursued an MCA from JSPM's JIBS in Pune. Proficient
+          in React, HTML/CSS, Tailwind CSS, JavaScript, Git. my focus is on
+          creating seamless user experiences using the MERN stack — MongoDB,
+          Express JS, React, and Node JS.
         </p>
-        <br />
-        <p className="text-xl">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam
-          asperiores explicabo nemo itaque corrupti quo eum assumenda maiores,
-          eos suscipit ab dignissimos unde vitae nostrum vero iusto, ad
-          deleniti. Iusto? Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Necessitatibus, odit totam ad error veritatis dolor recusandae
-          aut velit rem harum sequi repellendus repudiandae sunt iste molestias
-          qui, illum doloremque autem?
+        <p className="text-md md:text-xl my-4">
+          I've transitioned from crafting static websites at Gatitaa IT
+          Solutions to contributing to quality assurance at Wipro. Subsequently,
+          I joined Sham Computer Institute in Osmanabad, empowering students
+          with essential computer skills. Beyond coding, I'm an avid reader.
+        </p>
+        <p className="text-md md:text-xl">
+          Today, I'm eager to apply my full-stack expertise to innovate and
+          build cutting-edge web applications. If you're seeking a dedicated
+          MERN Full Stack Developer to elevate your projects, let's connect and
+          explore how I can contribute. Thank you for visiting my portfolio, and
+          I'm excited to collaborate with like-minded professionals who share a
+          passion for technology and innovation.
         </p>
       </div>
     </div>
